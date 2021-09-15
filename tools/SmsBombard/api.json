@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://ai.minivision.cn:18185/api/account/register_code_send",
+        "method": "POST",
+        "body":{
+            "registerType": "1",
+            "phone": "13800138000",
+            "username":"test"
+        },
+        "headers":{
+            "Content-Type":"application/json"
+        }
+    },
+    {
+        "url": "https://ai.minivision.cn:18185/api/account/register_code_send",
+        "method": "POST",
+        "body":{
+            "registerType": "1",
+            "phone": "13800138000",
+            "username":"test"
+        },
+        "headers":{
+            "Content-Type":"application/json"
+        }
+    }
+]
